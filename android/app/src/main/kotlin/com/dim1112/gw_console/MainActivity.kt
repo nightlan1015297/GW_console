@@ -1,0 +1,6 @@
+package com.dim1112.gw_console
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
